@@ -1,5 +1,6 @@
 # -Data-Professional-Survey-Dashboard
-📌 Description du projet  Ce projet a été réalisé avec Microsoft Power BI dans le but d’analyser les données d’un sondage réalisé auprès de professionnels de la data.
+📌 Description du projet  
+Ce projet a été réalisé avec Microsoft Power BI dans le but d’analyser les données d’un sondage réalisé auprès de professionnels de la data.
 Le dashboard permet d’explorer différents aspects du métier de la data tels que :
 
 les rôles professionnels les plus fréquents,
